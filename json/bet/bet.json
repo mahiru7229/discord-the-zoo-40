@@ -13,12 +13,165 @@
                     "5.88",
                     "10.34"
                 ],
+                "team1_score": 5,
+                "team2_score": 1,
+                "wins": 1,
+                "finished": 1
+            },
+            {
+                "id": 10001,
+                "tournamentName": "UEFA EURO 2024",
+                "round": "V\u00f2ng b\u1ea3ng (A)",
+                "time": 1718456400.0,
+                "team1": "Hungary",
+                "team2": "Th\u1ee5y S\u0129",
+                "bet": [
+                    "3.68",
+                    "3.3",
+                    "2.1"
+                ],
+                "team1_score": 1,
+                "team2_score": 3,
+                "wins": 2,
+                "finished": 1
+            },
+            {
+                "id": 10002,
+                "tournamentName": "UEFA EURO 2024",
+                "round": "V\u00f2ng b\u1ea3ng (B)",
+                "time": 1718467200.0,
+                "team1": "T\u00e2y Ban Nha",
+                "team2": "Croatia",
+                "bet": [
+                    "1.92",
+                    "3.47",
+                    "4.53"
+                ],
+                "team1_score": 3,
+                "team2_score": 0,
+                "wins": 1,
+                "finished": 1
+            },
+            {
+                "id": 10003,
+                "tournamentName": "UEFA EURO 2024",
+                "round": "V\u00f2ng b\u1ea3ng (B)",
+                "time": 1718478000.0,
+                "team1": "\u00dd",
+                "team2": "Albania",
+                "bet": [
+                    "1.35",
+                    "5.07",
+                    "10.56"
+                ],
+                "team1_score": 2,
+                "team2_score": 1,
+                "wins": 1,
+                "finished": 1
+            },
+            {
+                "id": 10004,
+                "tournamentName": "UEFA EURO 2024",
+                "round": "V\u00f2ng b\u1ea3ng (D)",
+                "time": 1718542800.0,
+                "team1": "Ba Lan",
+                "team2": "H\u00e0 Lan",
+                "bet": [
+                    "6.46",
+                    "4.13",
+                    "1.58"
+                ],
+                "team1_score": 0,
+                "team2_score": 0,
+                "wins": 0,
+                "finished": 0
+            },
+            {
+                "id": 10005,
+                "tournamentName": "UEFA EURO 2024",
+                "round": "V\u00f2ng b\u1ea3ng (C)",
+                "time": 1718553600.0,
+                "team1": "Slovenia",
+                "team2": "\u0110an M\u1ea1ch",
+                "bet": [
+                    "5.19",
+                    "3.74",
+                    "1.7"
+                ],
+                "team1_score": 0,
+                "team2_score": 0,
+                "wins": 0,
+                "finished": 0
+            },
+            {
+                "id": 10006,
+                "tournamentName": "UEFA EURO 2024",
+                "round": "V\u00f2ng b\u1ea3ng (C)",
+                "time": 1718564400.0,
+                "team1": "Serbia",
+                "team2": "Anh",
+                "bet": [
+                    "7.12",
+                    "4.49",
+                    "1.5"
+                ],
+                "team1_score": 0,
+                "team2_score": 0,
+                "wins": 0,
+                "finished": 0
+            },
+            {
+                "id": 10007,
+                "tournamentName": "LCK M\u00f9a H\u00e8 2024",
+                "round": "V\u00f2ng B\u1ea3ng",
+                "time": 1718517600.0,
+                "team1": "DRX",
+                "team2": "Hanwha Life Esports",
+                "bet": [
+                    "10.32",
+                    "0",
+                    "1.03"
+                ],
+                "team1_score": 0,
+                "team2_score": 0,
+                "wins": 0,
+                "finished": 0
+            },
+            {
+                "id": 10008,
+                "tournamentName": "LCK M\u00f9a H\u00e8 2024",
+                "round": "V\u00f2ng B\u1ea3ng",
+                "time": 1718528400.0,
+                "team1": "T1",
+                "team2": "Gen.G Esports",
+                "bet": [
+                    "1.47",
+                    "0",
+                    "2.6"
+                ],
+                "team1_score": 0,
+                "team2_score": 0,
+                "wins": 0,
+                "finished": 0
+            },
+            {
+                "id": 10009,
+                "tournamentName": "VCT 2024: Pacific Stage 2",
+                "round": "V\u00f2ng b\u1ea3ng (Alpha - Omega)",
+                "time": 1718524800.0,
+                "team1": "T1",
+                "team2": "Gen.G Esports",
+                "bet": [
+                    "3.83",
+                    "0",
+                    "1.24"
+                ],
                 "team1_score": 0,
                 "team2_score": 0,
                 "wins": 0,
                 "finished": 0
             }
         ],
-        "count": 10001
+        "count": 10010
     }
 }

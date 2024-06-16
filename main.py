@@ -47,7 +47,8 @@ class App:
     
 
 if __name__ == "__main__":
-    App().bot.run(os.environ["DISCORD_TOKEN"])
+    # App().bot.run(os.environ["DISCORD_TOKEN"])
+    App().bot.run(open("token.txt", "r").read())
 
 
 
